@@ -1,1 +1,1 @@
-# cookimgup-alura-course
+# cookingup-alura-course
